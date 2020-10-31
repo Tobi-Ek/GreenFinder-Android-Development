@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "856477174456",
+    "firebase_url": "https://greenfinderauthentication.firebaseio.com",
+    "project_id": "greenfinderauthentication",
+    "storage_bucket": "greenfinderauthentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856477174456:android:cda9cff2f5f9c5e5bc024d",
+        "android_client_info": {
+          "package_name": "com.example.greenfinderauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856477174456-b8muil03340etn2vh6u33o710m1kba55.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.greenfinderauthentication",
+            "certificate_hash": "3846217d87d8b61e9c9a585d616af2f9b32f4504"
+          }
+        },
+        {
+          "client_id": "856477174456-qcffffim5j5n6ue61knr2nqvt7sp8qgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIJh7o-WtbBVGdDdgh04SYJDJZZwHg1vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856477174456-qcffffim5j5n6ue61knr2nqvt7sp8qgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

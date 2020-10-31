@@ -1,0 +1,27 @@
+<resources>
+    <string name="tfe_ic_app_name" translation_description="GREEN FINDER [CHAR_LIMIT=40]">TFL Classify</string>
+    <string name="tfe_ic_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+    <string name="tfe_ic_gpu_quant_error" translation_description="Error regarding GPU support for Quant models[CHAR_LIMIT=60]">GPU does not yet supported quantized models.</string>
+    <string name="tfe_ic_model" translatable="false">Model:</string>
+    <string-array name="tfe_ic_models" translatable="false">
+        <item>Quantized_EfficientNet</item>
+        <item>Float_EfficientNet</item>
+        <item>Quantized_MobileNet</item>
+        <item>Float_MobileNet</item>
+    </string-array>
+
+    <string name="tfe_ic_device" translatable="false">Device:</string>
+    <string-array name="tfe_ic_devices" translatable="false">
+        <item>CPU</item>
+        <item>GPU</item>
+        <item>NNAPI</item>
+    </string-array>
+    <string name="default_web_client_id" translatable="false">856477174456-qcffffim5j5n6ue61knr2nqvt7sp8qgg.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://greenfinderauthentication.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">856477174456</string>
+    <string name="google_api_key" translatable="false">AIzaSyBIJh7o-WtbBVGdDdgh04SYJDJZZwHg1vw</string>
+    <string name="google_app_id" translatable="false">1:856477174456:android:cda9cff2f5f9c5e5bc024d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBIJh7o-WtbBVGdDdgh04SYJDJZZwHg1vw</string>
+    <string name="google_storage_bucket" translatable="false">greenfinderauthentication.appspot.com</string>
+    <string name="project_id" translatable="false">greenfinderauthentication</string>
+</resources>
